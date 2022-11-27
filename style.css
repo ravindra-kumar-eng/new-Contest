@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    
+}
+#container{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+#heading{
+    color: white;
+    
+    
+}
+
+.btn{
+   background-color: white;
+   color: black;
+   height: 30px;
+   width: 110px;
+   
+}
+p{
+    color: white;
+    padding-bottom: 15px;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5px;
+    width: fit-content;
+    margin-top: 8px;
+}
+
+.Clear{
+    color:white ;
+    border-color: white;
+    height: 30px;
+    width: 100px;
+    padding:0px ;
+    margin-left: 2px;
+}
+#counterText{
+    color: white;
+}
